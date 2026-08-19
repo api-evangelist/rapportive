@@ -33,7 +33,7 @@ x-status-note: >-
   rapportive.com 301-redirects to
   https://business.linkedin.com/sales-solutions/sales-navigator/feature-list/sales-navigator-for-gmail;
   acquired by LinkedIn in 2012 and absorbed into Sales Navigator. No standalone API surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
